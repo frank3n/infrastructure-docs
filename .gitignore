@@ -1,0 +1,26 @@
+﻿# Sensitive files
+**/secrets/
+**/*.key
+**/*.pem
+*credentials*
+*password*
+*.env
+.env.*
+
+# Temporary files
+*.tmp
+*.log
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Build outputs
+dist/
+build/
