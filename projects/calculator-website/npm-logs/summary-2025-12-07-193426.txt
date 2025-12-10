@@ -1,0 +1,69 @@
+﻿=========================================
+NPM Sequential Run Summary
+=========================================
+Date: 2025-12-07 19:35:11
+Command: npm run lint
+Total: 12 | Success: 1 | Failed: 11 | Skipped: 0
+
+Detailed Results:
+
+[FAILED] claude/multilang-calculator-plan-011CUz48qy2HekjPBWXe9Req
+  Reason: npm run lint exited with code 1
+  Duration: 19.49 seconds
+  Log: C:\github-claude\calculator-website-documentation\npm-logs\claude-multilang-calculator-plan-011CUz48qy2HekjPBWXe9Req-lint-2025-12-07-193426.log
+
+[FAILED] 
+  Reason: npm run lint exited with code 1
+  Duration: 2.18 seconds
+  Log: C:\github-claude\calculator-website-documentation\npm-logs\-lint-2025-12-07-193426.log
+
+[FAILED] 
+  Reason: npm run lint exited with code 1
+  Duration: 2.77 seconds
+  Log: C:\github-claude\calculator-website-documentation\npm-logs\-lint-2025-12-07-193426.log
+
+[FAILED] 
+  Reason: npm run lint exited with code 1
+  Duration: 3.04 seconds
+  Log: C:\github-claude\calculator-website-documentation\npm-logs\-lint-2025-12-07-193426.log
+
+[FAILED] 
+  Reason: npm run lint exited with code 1
+  Duration: 2.48 seconds
+  Log: C:\github-claude\calculator-website-documentation\npm-logs\-lint-2025-12-07-193426.log
+
+[FAILED] 
+  Reason: npm run lint exited with code 1
+  Duration: 2.19 seconds
+  Log: C:\github-claude\calculator-website-documentation\npm-logs\-lint-2025-12-07-193426.log
+
+[FAILED] 
+  Reason: npm run lint exited with code 1
+  Duration: 2.29 seconds
+  Log: C:\github-claude\calculator-website-documentation\npm-logs\-lint-2025-12-07-193426.log
+
+[FAILED] 
+  Reason: npm run lint exited with code 1
+  Duration: 1.93 seconds
+  Log: C:\github-claude\calculator-website-documentation\npm-logs\-lint-2025-12-07-193426.log
+
+[FAILED] 
+  Reason: npm run lint exited with code 1
+  Duration: 2.13 seconds
+  Log: C:\github-claude\calculator-website-documentation\npm-logs\-lint-2025-12-07-193426.log
+
+[FAILED] 
+  Reason: npm run lint exited with code 1
+  Duration: 1.96 seconds
+  Log: C:\github-claude\calculator-website-documentation\npm-logs\-lint-2025-12-07-193426.log
+
+[SUCCESS] 
+  Reason: Completed
+  Duration: 1.96 seconds
+  Log: C:\github-claude\calculator-website-documentation\npm-logs\-lint-2025-12-07-193426.log
+
+[FAILED] 
+  Reason: npm run lint exited with code 1
+  Duration: 1.98 seconds
+  Log: C:\github-claude\calculator-website-documentation\npm-logs\-lint-2025-12-07-193426.log
+

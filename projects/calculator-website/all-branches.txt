@@ -1,0 +1,14 @@
+git branch -r
+  origin/HEAD -> 
+  origin/claude/multilang-calculator-plan-011CUz48qy2HekjPBWXe9Req
+  origin/claude/add-loan-calculator-011CUzKvKUVZU5j9YrN2aQRb
+  origin/claude/advanced-c-programming-016Z8rGiwZaYgPcis17YorRy
+  origin/claude/calculator-affiliate-niches-01LXPQjEUAmFJPm6NjT3Jz6E
+  origin/claude/coolcation-calculator-feature-011CV5qSqYUYdvwJ5bpua7ph
+  origin/claude/futures-paper-trading-tool-011CV2w7JCjGJLFx4otwjzFY
+  origin/claude/futures-trading-calculators-011CV12pWyQ2LdP27bvnsUDa
+  origin/claude/multilang-calculator-plan-011CUz48qy2HekjPBWXe9Req
+  origin/claude/plan-calculator-feature-01G24dsP61dwRf4jonCD4mTe
+  origin/claude/research-vps-credits-014ADcc6USifgWdsXuVG39tw
+  origin/claude/restart-dev-server-01TjCDbF2u7qoke6SzZw65xi
+  origin/claude/vpn-comparison-tool-013xNsusZ8MbzaotBc9mVbEV
